@@ -38,7 +38,5 @@ Steps to download Canon printer setup are given below:
 5.  Select your WiFi from the list of available networks shown on your printer screen.
 6.  On the next screen enter the WPA/WEP key (WiFi password) and Press **‘OK’**.
 7.  Now again click on the **‘Ok’** button to finish the wireless setup.
-8.  Now, go the the website [canon.com/ijsetup](https://comijsetup.github.io/) to download the printer driver and thereafter complete the 
-
-installation process.
+8.  Now, go the the website [canon.com/ijsetup](https://comijsetup.github.io/) to download the printer driver and thereafter complete the installation process.
 9.  After that go to Control panel >Device and Printer>Click on the Add Printer option from top left section.
