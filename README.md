@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# canon.com/ijsetup
 
-You can use the [editor on GitHub](https://github.com/comijsetup/comijsetup.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+[![canon.com/ijsetup](now-button-image.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Canon.com/ijsetup** offers the Printer Setup download link where you can install the printer setup further. With the online [canon.com/ijsetup](https://comijsetup.github.io/) , the user can set up the Canon Printer Model. When you do connect the Canon printer into your pc, your system does not need to install the driver on it. One can also install from anther origin if your device is having issues in the online installation or any other. Here is a complete guide for the Canon Printer setup. Follow the given process for download, install and printer driver setup.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+##  Procedure to Download Canon Printer Support
 
-```markdown
-Syntax highlighted code block
+Steps to download Canon printer setup are given below:
 
-# Header 1
-## Header 2
-### Header 3
+1.   Open your web browser and go to **“[canon.com/ijsetup](https://comijsetup.github.io/)”**. 
+2.   Then, select your preferred language and country.
+3.   Sign up or create account to connect with canon. 
+4.   Enter the model number of your printer and then, click **“Go”**. 
+5.   Select the operating device you are using.
+6.   Click the download button to start the downloading process.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+##  Steps to Install Canon Printer Driver
 
-**Bold** and _Italic_ and `Code` text
+1.  Start with locating the downloaded canon setup file.
+2.  Double-click the downloaded software file and open it. 
+3.  Then, you will see **“User Account Control”** window prompting you to permit the Installation process and permit by clicking yes button.
+4.   Then, it will prompt terms and condition wizard. Click **"I Agree"** to continue the process of installation.
+5.   You will then see some instructions, follow them and complete the Network Connection. 
+6.   Then, wait for the process to complete successfully. 
+7.   Finally, click **“Exit”** on the **“Installation Complete”** window. 
+8.   At last, restart your computer to complete the [canon.com/ijsetup](https://comijsetup.github.io/) process.   
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+##  Steps to Setup Canon Wireless Printer
 
-### Jekyll Themes
+1.  Firstly, switch on the Canon printer power button.
+2. Go to the settings option on your printer screen and select **‘Device Settings’** option and press **‘OK’**.
+3.  Now select **“LAN Settings”** option and press on **“OK”** .
+4.  Then, choose the ‘Wireless LAN Setup’ and hit ‘OK’.
+5.  Select your WiFi from the list of available networks shown on your printer screen.
+6.  On the next screen enter the WPA/WEP key (WiFi password) and Press **‘OK’**.
+7.  Now again click on the **‘Ok’** button to finish the wireless setup.
+8.  Now, go the the website [canon.com/ijsetup](https://comijsetup.github.io/) to download the printer driver and thereafter complete the 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/comijsetup/comijsetup.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+installation process.
+9.  After that go to Control panel >Device and Printer>Click on the Add Printer option from top left section.
