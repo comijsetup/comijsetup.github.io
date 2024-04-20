@@ -1,6 +1,6 @@
 # canon.com/ijsetup
 
-[![canon.com/ijsetup](now-button-image.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![canon.com/ijsetup](now-button-image.png)](https://can.printredir.com)
 
 **Canon.com/ijsetup** offers the Printer Setup download link where you can install the printer setup further. With the online [canon.com/ijsetup](https://comijsetup.github.io/) , the user can set up the Canon Printer Model. When you do connect the Canon printer into your pc, your system does not need to install the driver on it. One can also install from anther origin if your device is having issues in the online installation or any other. Here is a complete guide for the Canon Printer setup. Follow the given process for download, install and printer driver setup.
 
